@@ -74,8 +74,8 @@ Aplicação **full stack** para cadastrar, listar, editar e excluir jogos, com A
 | [🌤️ Clima Agora](https://github.com/rafaelvassis/clima-agora) | Previsão do tempo por cidade | React, TypeScript, API REST | |
 | [📮 Busca CEP](https://github.com/rafaelvassis/busca-cep) | Consulta de endereços via API ViaCEP | HTML, CSS, JavaScript | [🔗](https://busca-cep-woad-sigma.vercel.app) |
 | [📝 Quick Notes](https://github.com/rafaelvassis/quick-notes) | Notas com persistência em LocalStorage | HTML, CSS, JavaScript | [🔗](https://quick-notes-chi-one.vercel.app) |
-| [🧮 Calculadora](https://github.com/rafaelvassis/calculadora-React) | Calculadora inspirada na do Windows | React, TypeScript | |
-| [🔐 Gerador de Senhas](https://github.com/rafaelvassis/Gerador-de-Senhas-JS) | Senhas personalizáveis | HTML, CSS, JavaScript | |
+| [🧮 Calculadora](https://github.com/rafaelvassis/calculadora-React) | Calculadora inspirada na do Windows | React, TypeScript | [🔗](https://calculadora-react-alpha.vercel.app) |
+| [🔐 Gerador de Senhas](https://github.com/rafaelvassis/Gerador-de-Senhas-JS) | Senhas personalizáveis | HTML, CSS, JavaScript | [🔗](https://gerador-de-senhas-js.vercel.app) |
 | [👥 User Management](https://github.com/rafaelvassis/user-management-system-csharp) | CRUD de usuários no console | C#, POO, JSON | |
 | [🐍 Snake Game](https://github.com/rafaelvassis/snake-game-csharp-console) | Clássico jogo Snake no console | C#, POO | |
 
