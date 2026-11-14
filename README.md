@@ -71,7 +71,7 @@ Aplicação **full stack** para cadastrar, listar, editar e excluir jogos, com A
 |---------|-----------|-------|:----:|
 | [⏱️ TaskCycle](https://github.com/rafaelvassis/taskcycle-app) | Gestão de tempo com ciclos de foco e descanso | React, TypeScript, Web Workers | [🔗](https://taskcycle-app.vercel.app/) |
 | [💱 Conversor de Moedas](https://github.com/rafaelvassis/conversor-moedas) | Conversão de moedas em tempo real | React, TypeScript, API REST | [🔗](https://conversor-de-moedas-blond.vercel.app) |
-| [🌤️ Clima Agora](https://github.com/rafaelvassis/clima-agora) | Previsão do tempo por cidade | React, TypeScript, API REST | |
+| [🌤️ Clima Agora](https://github.com/rafaelvassis/clima-agora) | Previsão do tempo por cidade | React, TypeScript, API REST | [🔗](https://clima-agora-seven.vercel.app) |
 | [📮 Busca CEP](https://github.com/rafaelvassis/busca-cep) | Consulta de endereços via API ViaCEP | HTML, CSS, JavaScript | [🔗](https://busca-cep-woad-sigma.vercel.app) |
 | [📝 Quick Notes](https://github.com/rafaelvassis/quick-notes) | Notas com persistência em LocalStorage | HTML, CSS, JavaScript | [🔗](https://quick-notes-chi-one.vercel.app) |
 | [🧮 Calculadora](https://github.com/rafaelvassis/calculadora-React) | Calculadora inspirada na do Windows | React, TypeScript | [🔗](https://calculadora-react-alpha.vercel.app) |
